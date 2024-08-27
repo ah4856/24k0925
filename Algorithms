@@ -1,0 +1,14 @@
+#Problem 3
+
+ask the user to enter first no./
+Get the operator from the user
+Ask the user to add 2nd no.
+If operator= "+" result=number1+number2
+elseif operator from user ="-" result=numb1-numb2
+elseif operator="*" . result=numb1*numb2
+elseif operator="/" . result=numb1/numb2
+else if operator="%" .handle modulus by 0 if no. 2 =0, error occur
+else: error:Invalid operator
+
+
+
