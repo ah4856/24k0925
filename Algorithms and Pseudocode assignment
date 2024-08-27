@@ -11,6 +11,17 @@ else if operator="%" .handle modulus by 0 if no. 2 =0, error occur
 else: error:Invalid operator
 
 
+pseudo code
+1- Start
+2- Input no. 1
+ input no. 3
+input no.5
+3- Set multiplication=0
+4-multiply 1 with1,3 with 1, 5 with1
+By comparing multiplication we find out that 5>3>1
+5- Print 5 is greater 
+6- End
+
 
 
 
